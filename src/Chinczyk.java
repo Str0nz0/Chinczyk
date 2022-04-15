@@ -1,5 +1,5 @@
 //MJ
-//Alpha 0.1
+//Alpha 0.2
 
 public class Chinczyk {
     public static void main(String[] args) throws InterruptedException {
