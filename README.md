@@ -8,4 +8,4 @@ Alpha 0.1 - First uploaded version | still in progress |
 
 >If you need the source code then download the entire branch
 
-<div style="text-align: right"> ***MJ*** </div>
+<b><i><p style="text-align: right;">MJ</p></i></b>
