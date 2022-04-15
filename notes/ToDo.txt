@@ -1,0 +1,9 @@
+To do list:
+    · bonus move if you roll 6
+    · 4 independent player characters --X--
+    · one symbol showing many characters in one place --X--
+    · dice --X--
+    · bazy - miejsca poczatkowe i koncowe
+    · drukowanie wielu postaci naraz --X--
+    · poprawic jesli sie nacisnie zly color pionka
+    · bug przy "nacisnij (r)" - jesli nacisnie sie cos innego to przechodzi do nastepnego gracza
