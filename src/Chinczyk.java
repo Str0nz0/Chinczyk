@@ -1,5 +1,5 @@
 //MJ
-//Beta 1.0
+//Alpha 0.1
 
 public class Chinczyk {
     public static void main(String[] args) throws InterruptedException {

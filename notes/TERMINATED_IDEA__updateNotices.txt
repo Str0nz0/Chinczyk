@@ -1,6 +1,0 @@
-//MJ
-This document describes the changes in each version of the "Chinczyk" program after every update
-
-v.1.04 - added animation as per Niklaus's suggestion, refined the movement algorithm and made an advanced menu
-
-v.1.05 - 
