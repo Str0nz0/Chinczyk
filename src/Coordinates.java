@@ -95,7 +95,7 @@ public class Coordinates {
                         }
                     }
 
-                    boardAnimation();
+                    boardAnimation(p);
                 }
 
                 else{
@@ -109,7 +109,7 @@ public class Coordinates {
         }
     }
 
-    public static void boardAnimation() throws InterruptedException {
+    public static void boardAnimation(String[] p) throws InterruptedException {
         for(int i=0; i<40; i++){
             p[i]= " ";
         }
