@@ -572,28 +572,24 @@ public class Menu {
             case 'y' -> Menu.player[1] = "\u001B[33m" + "@" + "\u001B[0m";
             case 'b' -> Menu.player[1] = "\u001B[34m" + "@" + "\u001B[0m";
             case 'g' -> Menu.player[1] = "\u001B[32m" + "@" + "\u001B[0m";
-            default -> System.out.println("Wpisz dobry kolor dziwaku");
         }
         switch(Menu.playerChoice[2]){
             case 'r' -> Menu.player[2] = "\u001B[31m" + "@" + "\u001B[0m";
             case 'y' -> Menu.player[2] = "\u001B[33m" + "@" + "\u001B[0m";
             case 'b' -> Menu.player[2] = "\u001B[34m" + "@" + "\u001B[0m";
             case 'g' -> Menu.player[2] = "\u001B[32m" + "@" + "\u001B[0m";
-            default -> System.out.println("Wpisz dobry kolor dziwaku");
         }
         switch(Menu.playerChoice[3]){
             case 'r' -> Menu.player[3] = "\u001B[31m" + "@" + "\u001B[0m";
             case 'y' -> Menu.player[3] = "\u001B[33m" + "@" + "\u001B[0m";
             case 'b' -> Menu.player[3] = "\u001B[34m" + "@" + "\u001B[0m";
             case 'g' -> Menu.player[3] = "\u001B[32m" + "@" + "\u001B[0m";
-            default -> System.out.println("Wpisz dobry kolor dziwaku");
         }
         switch(Menu.playerChoice[4]){
             case 'r' -> Menu.player[4] = "\u001B[31m" + "@" + "\u001B[0m";
             case 'y' -> Menu.player[4] = "\u001B[33m" + "@" + "\u001B[0m";
             case 'b' -> Menu.player[4] = "\u001B[34m" + "@" + "\u001B[0m";
             case 'g' -> Menu.player[4] = "\u001B[32m" + "@" + "\u001B[0m";
-            default -> System.out.println("Wpisz dobry kolor dziwaku");
         }
     }
 }
